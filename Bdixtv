@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 BD="GTV" tvg -logo="https://i.postimg.cc/zGWWbd1r/images.png". 
+#EXTINF:-1 Group Title="Powered by Liza" tvg -logo="https://i.postimg.cc/zGWWbd1r/images.png". 
 https://i.imgur.com/rTH9cWg.png
 https://i.imgur.com/KustFYI.mp4
+https://i.imgur.com/KustFYI.mp4
+#EXTINF:-1 group-title="Powered By Hasan" tvg -logo="https://i.imgur.com/rTH9cWg.png". Hasan
 https://i.imgur.com/KustFYI.mp4
